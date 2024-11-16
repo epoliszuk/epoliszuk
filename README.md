@@ -3,7 +3,7 @@ Welcome to my page! I'm @epoliszuk / Ellis / Echeveria, and I'm a student/hobbyi
 I prefer they/them pronouns, but anything works!
 
 I'm interested in art, math, and computer science!
-With art, I mainly do traditional pen on paper. With math, I know some calculus, but mainly I'm interested in number theory.
-I also have years of experience with Python, and have recently learned C#.
+With art, I mainly do traditional pen on paper. I plan to learn Blender, though! With math, I know calculus, but mainly I'm interested in number/set/field theory.
+I also have years of experience with Python, and have some knowledge in C#.
 
-The content that will be posted here is mostly going to be personal projects I find interesting.
+The content posted here will either be personal projects I feel are fleshed out enough to publish or projects I decided to polish in order to release.
